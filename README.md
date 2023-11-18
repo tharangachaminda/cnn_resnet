@@ -24,9 +24,8 @@ pip install tensorflow
     
 ## 🏆 Lessons Learned
 
-1. Creat dataset from a directory
-2. Preprocess and augment data using the Sequential API
-3. Adapt a pretrained model to new data and train a classifier using the functional API MobileNet
-4. Fine-tune a classifier's final layer to improve accuracy
+1. Intuitions about Identity Block
+2. Intuitions about Convolutional Block
+3. Intuitions about ResNet50
 
 
